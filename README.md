@@ -49,7 +49,7 @@ Avalanche is a high-performance blockchain platform that offers fast and low-cos
 Vite.js is a next-generation web application framework that leverages blockchain technology to enhance performance and scalability. We utilize Vite.js to create a fast and efficient frontend for Ether Legends Online, ensuring smooth gameplay and an optimal user experience.
 
 
-
+### Web3 Setup Guide: Bringing the Power of Blockchain to Your Project
 1. **Navigate to the web3 directory:** In your terminal, change the current directory to the web3 directory of your project by running the following command:
    ```
    cd web3
